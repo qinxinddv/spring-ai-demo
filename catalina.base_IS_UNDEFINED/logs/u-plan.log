@@ -1,0 +1,45 @@
+2024-07-02 14:32:14.253 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 70096 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 14:32:14.256 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 14:33:59.881 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 61836 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 14:33:59.884 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 14:34:01.314 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 14:34:10.253 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 53 ] - 本地知识库文档数量：false
+2024-07-02 14:56:15.780 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 67960 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 14:56:15.782 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 14:56:17.173 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 14:57:53.318 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 56 ] - Started SpringAiDemoApplication in 97.944 seconds (process running for 98.921)
+2024-07-02 14:58:43.160 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 58740 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 14:58:43.162 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 14:58:44.491 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 14:58:45.143 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet-rule.txt
+2024-07-02 14:58:45.193 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet.txt
+2024-07-02 14:58:45.653 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 56 ] - Started SpringAiDemoApplication in 2.97 seconds (process running for 3.76)
+2024-07-02 14:59:43.229 [ reactor-http-nio-2 ] - [ WARN  ] [i.n.r.dns.DefaultDnsServerAddressStreamProvider : 140 ] - Default DNS servers: [/[2001:4860:4860:0:0:0:0:8888]:53, /[2001:4860:4860:0:0:0:0:8844]:53] (Google Public DNS as a fallback)
+2024-07-02 15:01:17.264 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 70376 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 15:01:17.267 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:01:18.733 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 15:01:21.287 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet-rule.txt
+2024-07-02 15:01:21.354 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet.txt
+2024-07-02 15:01:23.073 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 56 ] - Started SpringAiDemoApplication in 6.318 seconds (process running for 7.48)
+2024-07-02 15:01:28.759 [ reactor-http-nio-2 ] - [ WARN  ] [i.n.r.dns.DefaultDnsServerAddressStreamProvider : 140 ] - Default DNS servers: [/[2001:4860:4860:0:0:0:0:8888]:53, /[2001:4860:4860:0:0:0:0:8844]:53] (Google Public DNS as a fallback)
+2024-07-02 15:03:50.668 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 67904 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 15:03:50.675 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:03:52.211 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 15:03:54.721 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet-rule.txt
+2024-07-02 15:03:54.772 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet.txt
+2024-07-02 15:03:55.228 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 56 ] - Started SpringAiDemoApplication in 5.079 seconds (process running for 6.153)
+2024-07-02 15:04:05.056 [ reactor-http-nio-2 ] - [ WARN  ] [i.n.r.dns.DefaultDnsServerAddressStreamProvider : 140 ] - Default DNS servers: [/[2001:4860:4860:0:0:0:0:8888]:53, /[2001:4860:4860:0:0:0:0:8844]:53] (Google Public DNS as a fallback)
+2024-07-02 15:08:57.610 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 67284 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 15:08:57.613 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:08:59.145 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 15:09:01.698 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet-rule.txt
+2024-07-02 15:09:01.769 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet.txt
+2024-07-02 15:09:02.216 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 56 ] - Started SpringAiDemoApplication in 5.089 seconds (process running for 6.187)
+2024-07-02 15:09:11.407 [ reactor-http-nio-2 ] - [ WARN  ] [i.n.r.dns.DefaultDnsServerAddressStreamProvider : 140 ] - Default DNS servers: [/[2001:4860:4860:0:0:0:0:8888]:53, /[2001:4860:4860:0:0:0:0:8844]:53] (Google Public DNS as a fallback)
+2024-07-02 15:13:08.275 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 50 ] - Starting SpringAiDemoApplication using Java 22.0.1 with PID 46596 (E:\idearWork\spring-ai-demo\target\classes started by qinxi in E:\idearWork\spring-ai-demo)
+2024-07-02 15:13:08.277 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 654 ] - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:13:09.918 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 48 ] - 开始加载本地知识库文档
+2024-07-02 15:13:12.350 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet-rule.txt
+2024-07-02 15:13:12.408 [ main ] - [ INFO  ] [c.example.spring_ai_demo.config.OllamaAutoConfig : 57 ] - 知识库文件加载完成：pet.txt
+2024-07-02 15:13:12.886 [ main ] - [ INFO  ] [c.example.spring_ai_demo.SpringAiDemoApplication : 56 ] - Started SpringAiDemoApplication in 5.127 seconds (process running for 6.253)
+2024-07-02 15:13:44.783 [ reactor-http-nio-2 ] - [ WARN  ] [i.n.r.dns.DefaultDnsServerAddressStreamProvider : 140 ] - Default DNS servers: [/[2001:4860:4860:0:0:0:0:8888]:53, /[2001:4860:4860:0:0:0:0:8844]:53] (Google Public DNS as a fallback)
